@@ -28,7 +28,7 @@
 ### Minecraft(MOD)
 ### Minecraft(Plugin)
 ### Minecraft(Addon)
-## App
+## APP
 ## Remake
 ## Fork
 - [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker) By:Kamesuta
