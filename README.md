@@ -3,21 +3,29 @@
 - [Web](https://github.com/appipinopi#Web)
 - [Api](https://github.com/appipinopi#Api)
 - [Game](https://github.com/appipinopi#Game)
-  - [MineCraft addon(Mod,Plugin,)](https://github.com/appipinopi#Minecraft-addonmodplugin)
-  - [OriginarGame](https://github.com/appipinopi#Originargame)
+- Addon
+  - EDBB
+  - Minecraft(MOD)
+  - Minecraft(Plugin)
+  - Minecraft(Addon)
 - [App](https://github.com/appipinopi#App)
 - [Remake](https://github.com/appipinopi#Remake)
 - [Fork](https://github.com/appipinopi#Fork)
 - [Support](https://github.com/appipinopi#Support)
 
 ## Web
+
 ## Api
 - [EDBP-Blacklist](https://github.com/EDBPlugin/Blacklist)
 - [EDBP-News](https://github.com/EDBPlugin/News)
 - [EDBP-PBARL](https://github.com/EDBPlugin/PBARL)
+- [EDBP-API](https://github.com/EDBPlugin/EDBP-API)
 ## Game
-### Minecraft addon(Mod,Plugin)
-### OriginarGame
+## Addon
+### EDBB
+### Minecraft(MOD)
+### Minecraft(Plugin)
+### Minecraft(Addon)
 ## App
 ## Remake
 ## Fork
