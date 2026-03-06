@@ -16,7 +16,7 @@
 ## App
 ## Remake
 ## Fork
-- [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker)By:Kamesuta
-- [EDBP-tester](https://github.com/EDBPlugin/EDBP-tester)By:himais0giiiin
-- [easy-bdp](https://github.com/EDBPlugin/easy-bdp) By:himais0giiiin
+- [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker)  By:Kamesuta
+- [EDBP-tester](https://github.com/EDBPlugin/EDBP-tester)  By:himais0giiiin
+- [easy-bdp](https://github.com/EDBPlugin/easy-bdp)  By:himais0giiiin
 ## Support
