@@ -1,14 +1,14 @@
 # My history
 ## table of contents
-- [WEB](https://github.com/appipinopi#Web)
-- [API](https://github.com/appipinopi#Api)
-- [GAME](https://github.com/appipinopi#Game)
-- Addon
+- [WEB](https://github.com/appipinopi#WEB)
+- [API](https://github.com/appipinopi#API)
+- [GAME](https://github.com/appipinopi#GAME)
+- [Addon](https://github.com/appipinopi#addon)
   - [EDBB](https://github.com/appipinopi#EDBB)
   - [Minecraft(MOD)](https://github.com/appipinopi#MinecraftMOD)
-  - Minecraft(Plugin)
-  - Minecraft(Addon)
-- [APP](https://github.com/appipinopi#App)
+  - [Minecraft(Plugin)](https://github.com/appipinopi#MinecraftPlugin)
+  - [Minecraft(Addon)](https://github.com/appipinopi#MinecraftAddon)
+- [APP](https://github.com/appipinopi#APP)
 - [Remake](https://github.com/appipinopi#Remake)
 - [Fork](https://github.com/appipinopi#Fork)
 - [Support](https://github.com/appipinopi#Support)
