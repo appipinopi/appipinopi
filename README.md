@@ -37,5 +37,5 @@
 - [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker) By:Kamesuta
 - [EDBP-tester](https://github.com/EDBPlugin/EDBP-tester) By:himais0giiiin
 - [easy-bdp](https://github.com/EDBPlugin/easy-bdp) By:himais0giiiin
-- [KEITO-Cloud-Deployer](https://github.com/appipinopi/KEITO-Cloud-Deployer)
+- [KEITO-Cloud-Deployer](https://github.com/appipinopi/KEITO-Cloud-Deployer) By:KEITO(himais0giiiin)
 ## Support
