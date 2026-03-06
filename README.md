@@ -1,6 +1,7 @@
 # My history
 ## table of contents
 - [Web](https://github.com/appipinopi#Web)
+- [Api](https://github.com/appipinopi#Api)
 - [Game](https://github.com/appipinopi#Game)
   - [MineCraft addon(Mod,Plugin,)](https://github.com/appipinopi#Minecraft-addonmodplugin)
   - [OriginarGame](https://github.com/appipinopi#Originargame)
@@ -10,6 +11,10 @@
 - [Support](https://github.com/appipinopi#Support)
 
 ## Web
+## Api
+- [EDBP-Blacklist](https://github.com/EDBPlugin/Blacklist)
+- [EDBP-News](https://github.com/EDBPlugin/News)
+- [EDBP-PBARL](https://github.com/EDBPlugin/PBARL)
 ## Game
 ### Minecraft addon(Mod,Plugin)
 ### OriginarGame
