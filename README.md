@@ -1,26 +1,26 @@
 # My history
 ## table of contents
-- [Web](https://github.com/appipinopi#Web)
-- [Api](https://github.com/appipinopi#Api)
-- [Game](https://github.com/appipinopi#Game)
+- [WEB](https://github.com/appipinopi#Web)
+- [API](https://github.com/appipinopi#Api)
+- [GAME](https://github.com/appipinopi#Game)
 - Addon
-  - EDBB
-  - Minecraft(MOD)
+  - [EDBB](https://github.com/appipinopi#EDBB)
+  - [Minecraft(MOD)](https://github.com/appipinopi#MinecraftMOD)
   - Minecraft(Plugin)
   - Minecraft(Addon)
-- [App](https://github.com/appipinopi#App)
+- [APP](https://github.com/appipinopi#App)
 - [Remake](https://github.com/appipinopi#Remake)
 - [Fork](https://github.com/appipinopi#Fork)
 - [Support](https://github.com/appipinopi#Support)
 
-## Web
+## WEB
 
-## Api
+## API
 - [EDBP-Blacklist](https://github.com/EDBPlugin/Blacklist)
 - [EDBP-News](https://github.com/EDBPlugin/News)
 - [EDBP-PBARL](https://github.com/EDBPlugin/PBARL)
 - [EDBP-API](https://github.com/EDBPlugin/EDBP-API)
-## Game
+## GAME
 ## Addon
 ### EDBB
 ### Minecraft(MOD)
