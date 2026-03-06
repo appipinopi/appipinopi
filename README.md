@@ -23,6 +23,8 @@
 ## GAME
 ## Addon
 ### EDBB
+- [debug-editor-plugin](https://github.com/EDBPlugin/debug-editor-plugin)
+- [Templates-Plugin](https://github.com/EDBPlugin/Templates-Plugin)
 ### Minecraft(MOD)
 ### Minecraft(Plugin)
 ### Minecraft(Addon)
