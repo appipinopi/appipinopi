@@ -2,6 +2,6 @@
 table of contents
 - web
 - Game
-  - MineCraft addon(Mod,Plugin,)
-  - OriginarGame
+ - MineCraft addon(Mod,Plugin,)
+ - OriginarGame
 - app
