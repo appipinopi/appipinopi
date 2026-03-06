@@ -1,6 +1,7 @@
 # My history
 ## table of contents
 - [WEB](https://github.com/appipinopi#WEB)
+ - [bpsr-rank](https://github.com/appipinopi/bpsr-rank)
 - [API](https://github.com/appipinopi#API)
 - [GAME](https://github.com/appipinopi#GAME)
 - [Addon](https://github.com/appipinopi#addon)
@@ -25,13 +26,16 @@
 ### EDBB
 - [debug-editor-plugin](https://github.com/EDBPlugin/debug-editor-plugin)
 - [Templates-Plugin](https://github.com/EDBPlugin/Templates-Plugin)
+- [Malicious-Test-Plugin](https://github.com/appipinopi/Malicious-Test-Plugin)
 ### Minecraft(MOD)
 ### Minecraft(Plugin)
 ### Minecraft(Addon)
+### Among_us(MOD)
 ## APP
 ## Remake
 ## Fork
 - [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker) By:Kamesuta
 - [EDBP-tester](https://github.com/EDBPlugin/EDBP-tester) By:himais0giiiin
 - [easy-bdp](https://github.com/EDBPlugin/easy-bdp) By:himais0giiiin
+- [KEITO-Cloud-Deployer](https://github.com/appipinopi/KEITO-Cloud-Deployer)
 ## Support
