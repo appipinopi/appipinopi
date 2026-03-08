@@ -1,7 +1,6 @@
 # My history
 ## table of contents
 - [WEB](https://github.com/appipinopi#WEB)
- - [bpsr-rank](https://github.com/appipinopi/bpsr-rank)
 - [API](https://github.com/appipinopi#API)
 - [GAME](https://github.com/appipinopi#GAME)
 - [Addon](https://github.com/appipinopi#addon)
@@ -15,7 +14,7 @@
 - [Support](https://github.com/appipinopi#Support)
 
 ## WEB
-
+- [bpsr-rank](https://github.com/appipinopi/bpsr-rank)
 ## API
 - [EDBP-Blacklist](https://github.com/EDBPlugin/Blacklist)
 - [EDBP-News](https://github.com/EDBPlugin/News)
