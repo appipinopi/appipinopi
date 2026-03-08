@@ -29,6 +29,7 @@
 - [Malicious-Test-Plugin](https://github.com/appipinopi/Malicious-Test-Plugin)
 ### Minecraft(MOD)
 ### Minecraft(Plugin)
+- [BlockLightMultiplier](https://github.com/appipinopi/BlockLightMultiplier)
 ### Minecraft(Addon)
 ### Among_us(MOD)
 ## APP
