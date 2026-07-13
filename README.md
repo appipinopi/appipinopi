@@ -3,7 +3,6 @@
 - [WEB](https://github.com/appipinopi#WEB)
 - [API](https://github.com/appipinopi#API)
 - [GAME](https://github.com/appipinopi#GAME)
-- [Soft](https://github.com/appipinopi#Soft)
 - [Addon](https://github.com/appipinopi#addon)
   - [WEB](https://github.com/appipinopi#WEB)
   - [EDBB](https://github.com/appipinopi#EDBB)
@@ -25,8 +24,6 @@
 - [EDBP-PBARL](https://github.com/EDBPlugin/PBARL)
 - [EDBP-API](https://github.com/EDBPlugin/EDBP-API)
 ## GAME
-## Soft
-- [88SoundBoard](https://github.com/appipinopi/88soundboard)
 ## Addon
 ### WEB
 - [SteamDB-BrowserExtension](https://github.com/appipinopi/BrowserExtension)
@@ -41,6 +38,12 @@
 ### Minecraft(Addon)
 ### Among_us(MOD)
 ## APP
+### Windows Only
+- [88SoundBoard](https://github.com/appipinopi/88soundboard)
+### Linux Only
+### Mac Only
+### WLM Only
+### Other
 ## Remake
 ## Fork
 - [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker) By:Kamesuta
