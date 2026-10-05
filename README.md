@@ -18,6 +18,7 @@
 - [bpsr-rank](https://github.com/appipinopi/bpsr-rank)
 - [EDBP-tester](https://github.com/EDBPlugin/EDBP-tester)
 - [easy-bdp](https://github.com/EDBPlugin/easy-bdp)
+- [Uyu Kurose HomePage](https://kuroseuyu.pages.dev/) For[kuroseuyu](https://x.com/@uyu_ns_)
 ## API
 - [EDBP-Blacklist](https://github.com/EDBPlugin/Blacklist)
 - [EDBP-News](https://github.com/EDBPlugin/News)
