@@ -42,9 +42,10 @@
 ### Windows Only
 ### Linux Only
 ### Mac Only
-### WLM Only
+### WLM(Windwos,Linux,Mac) Only
+### WLMW(Windwos,Linux,Mac,Web) Only
+- [88SoundBoard](https://portal.88soundboard.workers.dev/) 
 ### Other
-- [88SoundBoard](https://portal.88soundboard.workers.dev/)
 ## Remake
 ## Fork
 - [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker) By:Kamesuta
