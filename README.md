@@ -40,11 +40,11 @@
 ### Among_us(MOD)
 ## APP
 ### Windows Only
-- [88SoundBoard](https://github.com/appipinopi/88soundboard)
 ### Linux Only
 ### Mac Only
 ### WLM Only
 ### Other
+- [88SoundBoard](https://portal.88soundboard.workers.dev/)
 ## Remake
 ## Fork
 - [minecraft-plugin-maker](https://github.com/appipinopi/minecraft-plugin-maker) By:Kamesuta
